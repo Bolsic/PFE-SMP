@@ -6,20 +6,24 @@ Ovde se nalaze fajlovi potrebni za pokretanje PFE-SMP servera. Neki od modova su
 
 ## Instalacija
 
-Nakon instaliranja [TLauncher](https://tlauncher.org/en/)-a ili bilo kog drugog Minecraft _launcher-a_ (predlažem TLauncher jer možete namestiti svoj username, umesto da se zovete nešto random) unutar "**.minecraft**" foldera, kom možete pristupiti iz TLauncher-a ili kroz file menager, naćićete "**mods**" i "**resourcepacks**" foldere. Ubacite sadržaj istoimenih foldera sa ovog repozitorijuma u pronadjene foldere i tjt.  
-  <br>***DISCLAIMER: Ako ne nadjete neki od navedenih foldera možda je potrebno da jednom pokrnete minecraft bez ikakvih dodataka da bi se generisali.***
+Nakon instaliranja [TLauncher](https://tlauncher.org/en/)-a ili bilo kog drugog Minecraft _launcher-a_ (predlažem TLauncher jer možete namestiti svoj username, umesto da se zovete nešto random) unutar "**.minecraft**" direktorijuma, kom možete pristupiti iz TLauncher-a ili kroz file menager, naćićete "**mods**" i "**resourcepacks**" direktorijume. Ubacite sadržaj iz istoimenih direktorijuma sa ovog repozitorijuma i tjt.  
+  <br>***DISCLAIMER: Ako ne nađete neki od navedenih foldera možda je potrebno da jednom pokrnete minecraft bez ikakvih dodataka da bi se generisali.***
 
 Ako nekad dodje do promena modova ovaj repozitorijum će biti adekvatno ažuriran.
 
 ## Pristup serveru
 
 Na server se pristupa preko sledeće IP adrese: 
-<span style="color:cyan;"> PFE_SMP.exaroton.me:16390 </span>  <br> 
+***PFE_SMP.exaroton.me:16390***  <br> 
 Ako je server ugašen kada pokušate da pristupite na njega dobićete sledeću poruku:
 
 ![Alt text](images/loading-server.png)
 
 Server će se nakon par minuta uključiti i moći ćete da pristupite.
+
+## Plaćanje
+
+server koristi kredite kao metod plaćanja, gde 100 kredita košta 100 din. Server koristi 1 kredit po satu za svaki GB RAMa koji se koristi (mi trenutno koristimo 6GB RAMa, što je oko 16 sati upaljenog servera za 100din). 
 
 ## Gameplay
 
@@ -29,7 +33,7 @@ PVP: Enabled   <br>
 RAM Servera: 6 GB (promenljivo)   <br>
 
 
-### Pravila servera
+## Pravila servera
 
 <span style="color:lime;"> TODO:</span> 
 
