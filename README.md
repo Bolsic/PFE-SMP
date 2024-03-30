@@ -67,15 +67,15 @@ Ovi modovi su potrebni da bi drugi modovi radili
  
  Ovi modovi nisu obavezni, niti morate da imate baš ove.
 
- | Name                    | Description                                                        |
-|-------------------------|--------------------------------------------------------------------|
-| Better F3               | Customisable F3 menu                                               |
-| Entity Model Features   | Allows the usage of Better Animations resourcepack                 |
-| Entity Texture Features | Allows the usage of Better Animations resourcepack                 |
-| Just Enaugh Items | A simple menu of all the items in the game and their recepies      |
-| LambDynamicLights     | Dynamic lights 
+ | Name                    | Description                                                       |
+|--------------------------|-------------------------------------------------------------------|
+| Better F3                | Customisable F3 menu                                               |
+| Entity Model Features    | Allows the usage of Better Animations resourcepack                 |
+| Entity Texture Features  | Allows the usage of Better Animations resourcepack                 |
+| Just Enaugh Items     | A simple menu of all the items in the game and their recepies            |
+| LambDynamicLights     | Dynamic lights                                                       |
 | Light Overlay           | A simple overlay that shows the light leve of blocks               |
-| Litematica              | [LINK](https://www.curseforge.com/minecraft/mc-mods/litematica)                                                               |
+| Litematica              | [LINK](https://www.curseforge.com/minecraft/mc-mods/litematica)    |                                                            |
 | Mod Menu                | A mod menu at the title screen                                     |
 | Shuffle                 | Randomise block placement for better building                      |
 | WI Zoom                 | Zoom                                                               |
