@@ -6,7 +6,8 @@ Ovde se nalaze fajlovi potrebni za pokretanje PFE-SMP servera. Neki od modova su
 
 ## Instalacija
 
-Nakon instaliranja [TLauncher](https://tlauncher.org/en/)-a ili bilo kog drugog Minecraft _launcher-a_ (predlažem TLauncher jer možete namestiti svoj username, umesto da se zovete nešto random) unutar "**.minecraft**" direktorijuma, kom možete pristupiti iz TLauncher-a ili kroz file menager, naćićete "**mods**" i "**resourcepacks**" direktorijume. Ubacite sadržaj iz istoimenih direktorijuma sa ovog repozitorijuma i tjt.  
+Nakon instaliranja bilo kog Minecraft _launcher-a_ (ne predlažem TLauncher pošto je ruski spyware) (preporucujem [EasyMC](https://easymc.io/)) unutar "**.minecraft**" direktorijuma, kom možete pristupiti kroz file menager, naćićete "**mods**" i "**resourcepacks**" direktorijume. Ubacite sadržaj iz istoimenih direktorijuma sa ovog repozitorijuma i tjt.  
+
   <br>***DISCLAIMER: Ako ne nađete neki od navedenih foldera možda je potrebno da jednom pokrnete minecraft bez ikakvih dodataka da bi se generisali.***
 
 Ako nekad dodje do promena modova ovaj repozitorijum će biti adekvatno ažuriran.
